@@ -29,10 +29,8 @@ Follow these steps to get started with KeyMaster:
 
 ## Issues and Bug Reports 🛸
 
-If you encounter any issues or find a bug, please open an issue on the [issue tracker](https://github.com/your-username/keymaster/issues).
+If you encounter any issues or find a bug, please open an issue on the [issue tracker](https://github.com/NiceGuyMe/KeyMaster/issues).
 
-
-## Acknowledgments
-
-- KeyMaster was inspired by the need for a secure and user-friendly password manager.
+## Pull Request
+- Don't hesitate to participate in this project 💫
 
