@@ -34,5 +34,5 @@ If you encounter any issues or find a bug, please open an issue on the [issue tr
 ## ✨ Contributing
 Contributions are welcome! If you find any issues or want to add features, fork the repository and create a pull request.
 
-Feel free to reach out if you have any questions or need assistance. Happy coding with EmployeeXpress!
+Feel free to reach out if you have any questions or need assistance. Happy coding !
 
